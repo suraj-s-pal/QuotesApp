@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuotesApp</string>
+    <string name="share_button">Share Button</string>
+    <string name="quotes">QUOTES</string>
+    <string name="Quote">Genius is one percent inspiration and ninety-nine percent perspiration.</string>
+    <string name="thomas_edison">Thomas Edison</string>
+    <string name="next">NEXT</string>
+    <string name="previous">PREVIOUS</string>
+</resources>
